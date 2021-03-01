@@ -21,10 +21,10 @@
       ><path d="M0 0 L0 28 L10 28 L10 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath6"
-      ><path d="M0 0 L0 26 L26 26 L26 0 Z"
+      ><path d="M0 0 L0 28 L170 28 L170 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath7"
-      ><path d="M0 0 L0 28 L170 28 L170 0 Z"
+      ><path d="M0 0 L0 26 L26 26 L26 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath8"
       ><path d="M0 0 L0 125 L175 125 L175 0 Z"
@@ -145,7 +145,7 @@
         /><glyph unicode=" " horiz-adv-x="28.0" d=""
         /><glyph unicode="r" horiz-adv-x="33.0" d="M6.5 0 L6.5 51.859375 L14.40625 51.859375 L14.40625 44 Q17.4375 49.515625 20 51.2734375 Q22.5625 53.03125 25.640625 53.03125 Q30.078125 53.03125 34.671875 50.203125 L31.640625 42.046875 Q28.421875 43.953125 25.203125 43.953125 Q22.3125 43.953125 20.015625 42.21875 Q17.71875 40.484375 16.75 37.40625 Q15.28125 32.71875 15.28125 27.15625 L15.28125 0 L6.5 0 Z"
         /><glyph unicode="g" horiz-adv-x="55.0" d="M4.984375 -4.296875 L13.53125 -5.5625 Q14.0625 -9.515625 16.5 -11.328125 Q19.78125 -13.765625 25.4375 -13.765625 Q31.546875 -13.765625 34.8671875 -11.328125 Q38.1875 -8.890625 39.359375 -4.5 Q40.046875 -1.8125 39.984375 6.78125 Q34.234375 0 25.640625 0 Q14.9375 0 9.078125 7.71875 Q3.21875 15.4375 3.21875 26.21875 Q3.21875 33.640625 5.90625 39.9140625 Q8.59375 46.1875 13.6953125 49.609375 Q18.796875 53.03125 25.6875 53.03125 Q34.859375 53.03125 40.828125 45.609375 L40.828125 51.859375 L48.921875 51.859375 L48.921875 7.03125 Q48.921875 -5.078125 46.4609375 -10.1328125 Q44 -15.1875 38.6484375 -18.1171875 Q33.296875 -21.046875 25.484375 -21.046875 Q16.21875 -21.046875 10.5 -16.875 Q4.78125 -12.703125 4.984375 -4.296875 ZM12.25 26.859375 Q12.25 16.65625 16.3046875 11.96875 Q20.359375 7.28125 26.46875 7.28125 Q32.515625 7.28125 36.6171875 11.9453125 Q40.71875 16.609375 40.71875 26.5625 Q40.71875 36.078125 36.5 40.9140625 Q32.28125 45.75 26.3125 45.75 Q20.453125 45.75 16.3515625 40.9921875 Q12.25 36.234375 12.25 26.859375 Z"
-        /><glyph unicode="5" horiz-adv-x="56.0" d="M4.15625 18.75 L13.375 19.53125 Q14.40625 12.796875 18.140625 9.3984375 Q21.875 6 27.15625 6 Q33.5 6 37.890625 10.7890625 Q42.28125 15.578125 42.28125 23.484375 Q42.28125 31 38.0625 35.3515625 Q33.84375 39.703125 27 39.703125 Q22.75 39.703125 19.3359375 37.7734375 Q15.921875 35.84375 13.96875 32.765625 L5.71875 33.84375 L12.640625 70.609375 L48.25 70.609375 L48.25 62.203125 L19.671875 62.203125 L15.828125 42.96875 Q22.265625 47.46875 29.34375 47.46875 Q38.71875 47.46875 45.1640625 40.96875 Q51.609375 34.46875 51.609375 24.265625 Q51.609375 14.546875 45.953125 7.46875 Q39.0625 -1.21875 27.15625 -1.21875 Q17.390625 -1.21875 11.2109375 4.25 Q5.03125 9.71875 4.15625 18.75 Z"
+        /><glyph unicode="3" horiz-adv-x="56.0" d="M4.203125 18.890625 L12.984375 20.0625 Q14.5 12.59375 18.140625 9.296875 Q21.78125 6 27 6 Q33.203125 6 37.4765625 10.296875 Q41.75 14.59375 41.75 20.953125 Q41.75 27 37.796875 30.9296875 Q33.84375 34.859375 27.734375 34.859375 Q25.25 34.859375 21.53125 33.890625 L22.515625 41.609375 Q23.390625 41.5 23.921875 41.5 Q29.546875 41.5 34.0390625 44.4296875 Q38.53125 47.359375 38.53125 53.46875 Q38.53125 58.296875 35.2578125 61.4765625 Q31.984375 64.65625 26.8125 64.65625 Q21.6875 64.65625 18.265625 61.4296875 Q14.84375 58.203125 13.875 51.765625 L5.078125 53.328125 Q6.6875 62.15625 12.3984375 67.015625 Q18.109375 71.875 26.609375 71.875 Q32.46875 71.875 37.3984375 69.359375 Q42.328125 66.84375 44.9453125 62.5 Q47.5625 58.15625 47.5625 53.265625 Q47.5625 48.640625 45.0703125 44.828125 Q42.578125 41.015625 37.703125 38.765625 Q44.046875 37.3125 47.5625 32.6953125 Q51.078125 28.078125 51.078125 21.140625 Q51.078125 11.765625 44.2421875 5.25 Q37.40625 -1.265625 26.953125 -1.265625 Q17.53125 -1.265625 11.3046875 4.3515625 Q5.078125 9.96875 4.203125 18.890625 Z"
         /><glyph unicode="-" horiz-adv-x="33.0" d="M3.171875 21.484375 L3.171875 30.328125 L30.171875 30.328125 L30.171875 21.484375 L3.171875 21.484375 Z"
         /><glyph unicode="1" horiz-adv-x="56.0" d="M37.25 0 L28.46875 0 L28.46875 56 Q25.296875 52.984375 20.140625 49.953125 Q14.984375 46.921875 10.890625 45.40625 L10.890625 53.90625 Q18.265625 57.375 23.78125 62.3046875 Q29.296875 67.234375 31.59375 71.875 L37.25 71.875 L37.25 0 Z"
         /><glyph unicode="0" horiz-adv-x="56.0" d="M4.15625 35.296875 Q4.15625 48 6.765625 55.7421875 Q9.375 63.484375 14.5234375 67.6796875 Q19.671875 71.875 27.484375 71.875 Q33.25 71.875 37.59375 69.5546875 Q41.9375 67.234375 44.7734375 62.8671875 Q47.609375 58.5 49.21875 52.2265625 Q50.828125 45.953125 50.828125 35.296875 Q50.828125 22.703125 48.2421875 14.96875 Q45.65625 7.234375 40.5078125 3.0078125 Q35.359375 -1.21875 27.484375 -1.21875 Q17.140625 -1.21875 11.234375 6.203125 Q4.15625 15.140625 4.15625 35.296875 ZM13.1875 35.296875 Q13.1875 17.671875 17.3125 11.8359375 Q21.4375 6 27.484375 6 Q33.546875 6 37.671875 11.859375 Q41.796875 17.71875 41.796875 35.296875 Q41.796875 52.984375 37.671875 58.7890625 Q33.546875 64.59375 27.390625 64.59375 Q21.34375 64.59375 17.71875 59.46875 Q13.1875 52.9375 13.1875 35.296875 Z"
@@ -218,10 +218,10 @@
       /><path fill="none" d="M219 89 C231 89 220 102 240 102" clip-path="url(#clipPath4)"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(725,298)" stroke="gray"
-    ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath7)" x2="170" y1="27"
+    ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath6)" x2="170" y1="27"
     /></g
     ><g font-size="18" transform="translate(725,298)" fill="rgb(0,51,255)" text-rendering="optimizeSpeed" font-family="sans-serif" shape-rendering="crispEdges" stroke="rgb(0,51,255)"
-    ><image x="6" y="6" clip-path="url(#clipPath7)" width="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAGo0lEQVR42m1Va2wU
+    ><image x="6" y="6" clip-path="url(#clipPath6)" width="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAGo0lEQVR42m1Va2wU
 1xU+987MPr2z6/XaMRiwi/EuGGMrxaIUsCOHghwjaB7dhTRRE0VESoholfzog6ax
 SRuKqPhTRURJpORvaqeFNoEkxiAHVCDg+EHMBtuxjY1f8a53vbPzft3eWYpUod7V
 Wd3ZOd9+555zvnMR/Hd1dHSw1Exnvwt27QsHw20enyeGMAJZkEeEvHDuc/j8Xw/6
@@ -258,13 +258,9 @@ aFGxmBGRJlt26m4+NzYw12WH8CsOuYNpaWkhyWQXcS6W3ssvTOzYEbso55JhMb9U
 JSt5TlWobNUcUpUskfPTkiZOnzZxyaH2t3qvFTC9LQT9z3VauJSc/WPweDUV2xM0
 C7UYMJiWmaT9cfqMdmb8Qd/7q7Ozk0kkEgWN/fH1xhi21Z/ZGNc5gqPze9jGno//
 8Ke+kQd9/wMqd9fWrXluIQAAAABJRU5ErkJggg==" height="16" preserveAspectRatio="none"
-      /><text text-rendering="geometricPrecision" x="42" xml:space="preserve" y="21" clip-path="url(#clipPath7)" stroke="none"
+      /><text text-rendering="geometricPrecision" x="42" xml:space="preserve" y="21" clip-path="url(#clipPath6)" stroke="none"
       >RailTopoModel</text
     ></g
-    ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(980,326)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
-    /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(915,314)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath10)" x2="75" y1="24"
     /></g
@@ -272,6 +268,10 @@ C7UYMJiWmaT9cfqMdmb8Qd/7q7Ozk0kkEgWN/fH1xhi21Z/ZGNc5gqPze9jGno//
     ><text x="6" xml:space="preserve" y="19" clip-path="url(#clipPath10)" stroke="none"
       >concepts</text
     ></g
+    ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(980,326)" stroke="white"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
+    /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(915,286)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
     /></g
@@ -280,22 +280,22 @@ C7UYMJiWmaT9cfqMdmb8Qd/7q7Ozk0kkEgWN/fH1xhi21Z/ZGNc5gqPze9jGno//
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1074,298)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(476,377)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath14)" x2="104" y1="27"
     /></g
     ><g font-size="18" transform="translate(476,377)" fill="rgb(0,51,255)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="crispEdges" stroke="rgb(0,51,255)"
     ><text x="6" xml:space="preserve" y="21" clip-path="url(#clipPath14)" stroke="none"
-      >2021-02-25</text
+      >2021-03-01</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(524,346)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath16)" x2="56" y1="27"
     /></g
     ><g font-size="18" transform="translate(524,346)" fill="rgb(0,51,255)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="crispEdges" stroke="rgb(0,51,255)"
     ><text x="6" xml:space="preserve" y="21" clip-path="url(#clipPath16)" stroke="none"
-      >v2.12</text
+      >v2.13</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(0,315)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath18)" x2="580" y1="27"
@@ -340,8 +340,8 @@ GnZtl8rvLCUcvfOHn+P/A7zkvIM/h8VxAAAAAElFTkSuQmCC" height="16" preserveAspectRati
       > Racoon: University of Birmingham Rail Core Ontology and FuTRO</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(-15,330)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(485,284)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath20)" x2="95" y1="27"
@@ -371,8 +371,8 @@ a8fjX5nz9+f+A/8W0EEJ3U7mAAAAAElFTkSuQmCC" height="16" preserveAspectRatio="none"
       >Ontorail</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(470,299)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(253,178)" stroke="gray"
     ><path fill="none" d="M239 89 C227 89 238 74 218 74" clip-path="url(#clipPath21)"
@@ -406,10 +406,6 @@ AAAASUVORK5CYII=" height="16" preserveAspectRatio="none"
       /><text text-rendering="geometricPrecision" x="6" xml:space="preserve" y="21" clip-path="url(#clipPath22)" stroke="none"
       >RailML</text
     ></g
-    ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(382,268)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
-    /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(397,256)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath10)" x2="75" y1="24"
     /></g
@@ -417,6 +413,10 @@ AAAASUVORK5CYII=" height="16" preserveAspectRatio="none"
     ><text x="6" xml:space="preserve" y="19" clip-path="url(#clipPath10)" stroke="none"
       >concepts</text
     ></g
+    ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(382,268)" stroke="white"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
+    /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(303,228)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
     /></g
@@ -425,8 +425,8 @@ AAAASUVORK5CYII=" height="16" preserveAspectRatio="none"
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(288,240)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(335,146)" stroke="gray"
     ><path fill="none" d="M145 78 C133 78 144 74 124 74" clip-path="url(#clipPath23)"
@@ -466,8 +466,8 @@ VqOTqdJOkKUZbOnDfFF+UV4qLE2JNfFLC2xhYrEYhX+NM/7HSUEIvoKvyRj50VrW
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(370,208)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(675,180)" stroke="gray"
     ><path fill="none" d="M172 89 C184 89 173 74 193 74" clip-path="url(#clipPath25)"
@@ -509,8 +509,8 @@ Dcr/A9rK0inQqOJLAAAAAElFTkSuQmCC" height="16" preserveAspectRatio="none"
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(933,270)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(868,230)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
@@ -520,8 +520,8 @@ Dcr/A9rK0inQqOJLAAAAAElFTkSuQmCC" height="16" preserveAspectRatio="none"
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1027,242)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(675,124)" stroke="gray"
     ><path fill="none" d="M203 89 C215 89 204 74 224 74" clip-path="url(#clipPath27)"
@@ -562,8 +562,8 @@ TkSuQmCC" height="16" preserveAspectRatio="none"
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(964,214)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(899,174)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
@@ -573,8 +573,8 @@ TkSuQmCC" height="16" preserveAspectRatio="none"
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1058,186)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(725,143)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath30)" x2="103" y1="27"
@@ -603,8 +603,8 @@ mDX0ootKaA5Bf8g46/i96M/FBCvPn7py/b9lumedB0uV5+cWHqlqJrwKoM1IEEBB
       >EULYNX</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(818,158)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="18" font-family="sans-serif" transform="translate(725,112)" stroke="gray"
     ><line y2="27" fill="none" x1="0" clip-path="url(#clipPath32)" x2="73" y1="27"
@@ -672,8 +672,8 @@ aAbb9uW7i4v5F23/AVBY9IYyILQ7AAAAAElFTkSuQmCC" height="16" preserveAspectRatio="n
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1014,96)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(949,56)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
@@ -683,8 +683,8 @@ aAbb9uW7i4v5F23/AVBY9IYyILQ7AAAAAElFTkSuQmCC" height="16" preserveAspectRatio="n
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1108,68)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(220,-15)" stroke="gray"
     ><path fill="none" d="M239 89 C227 89 238 74 218 74" clip-path="url(#clipPath35)"
@@ -725,8 +725,8 @@ xwAAAABJRU5ErkJggg==" height="16" preserveAspectRatio="none"
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(349,75)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(270,35)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
@@ -736,8 +736,8 @@ xwAAAABJRU5ErkJggg==" height="16" preserveAspectRatio="none"
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(255,47)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(675,-50)" stroke="gray"
     ><path fill="none" d="M211 89 C223 89 212 74 232 74" clip-path="url(#clipPath37)"
@@ -778,8 +778,8 @@ cusTGcnLzwAAAABJRU5ErkJggg==" height="16" preserveAspectRatio="none"
       >concepts</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(972,40)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="16" font-family="sans-serif" transform="translate(907,0)" stroke="gray"
     ><line y2="24" fill="none" x1="0" clip-path="url(#clipPath12)" x2="169" y1="24"
@@ -789,8 +789,8 @@ cusTGcnLzwAAAABJRU5ErkJggg==" height="16" preserveAspectRatio="none"
       >general characteristics</text
     ></g
     ><g fill="white" text-rendering="optimizeSpeed" font-size="11" font-family="&apos;Tahoma&apos;" transform="translate(1066,12)" stroke="white"
-    ><circle r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="none"
-      /><circle fill="none" r="3" clip-path="url(#clipPath6)" cx="12" cy="12" stroke="gray"
+    ><circle r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="none"
+      /><circle fill="none" r="3" clip-path="url(#clipPath7)" cx="12" cy="12" stroke="gray"
     /></g
   ></g
 ></svg
